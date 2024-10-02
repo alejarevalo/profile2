@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-## Hello! I'm Eggsy! Full Stack Developer
-### Languages
-- Spanish
-- English
-- French
-=======
 # Hello! I'm Eggsy! Full Stack Developer
 
 ## Technologies
@@ -16,4 +9,8 @@
 
 ## Hobbies
 - Dancing, drawing, reading...
->>>>>>> dab1c01eeec8e3d4c979556da2e3a8ec4be13e72
+
+### Languages
+- Spanish
+- English
+- French
